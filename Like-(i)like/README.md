@@ -1,4 +1,4 @@
-#Homework - LIKE, ILIKE
+# Homework - LIKE, ILIKE
 
 Aşağıdaki sorgu senaryolarının tümü **dvdrental** örnek veri tabanı üzerinden gerçekleştirilmiştir.
 
